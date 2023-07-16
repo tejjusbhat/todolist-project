@@ -7,7 +7,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Tejjus",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.20.2",
@@ -16,5 +16,8 @@
     "express": "^4.18.2",
     "lodash": "^4.17.21",
     "mongoose": "^7.3.4"
+  },
+  "engines": {
+    "node": ">=14 <15"
   }
 }
